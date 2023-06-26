@@ -1,9 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    opacity: 0;
-}
 body {    
     margin: auto; 
     background: #000;
@@ -113,6 +107,10 @@ footer {
     .container {
         padding: 1rem;
     }
+    #logo-planB {
+        width: 75px;
+        padding: 0 0 2rem 0;
+    }
     #demo {
         padding: 5rem 0;
     }
@@ -127,6 +125,10 @@ footer {
     }
     #demo {
         padding: 1rem 0;
+    }
+    #logo-planB {
+        width: 50px;
+        padding: 0 0 2rem 0;
     }
     footer {
         margin-top: -2px;
